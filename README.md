@@ -11,6 +11,7 @@
  
 
 <!-- Tech Stack -->
+
 <h3 align="center">Languages:</h3>
 <div>
 <p align="center">
@@ -52,12 +53,4 @@
 <a href="https://medium.com/@hadjichristodoulou_athina" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" style="height: 4rem"/>
 </a>
-</div>
-
-
-<!-- PunLines -->
-
-<h3 align="center">A Little Laugher For You 😄:</h3>  
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
