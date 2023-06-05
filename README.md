@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm Athina, a software developer from Cyprus 🇨🇾</h3>  
  <p>
  👩‍🎓 I graduated from university in 2022 with a degree in Computer Science.
