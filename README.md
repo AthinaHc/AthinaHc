@@ -59,5 +59,5 @@
 
 <h3 align="center">A Little Laugher For You 😄:</h3>  
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
 </div>
