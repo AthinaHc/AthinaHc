@@ -54,11 +54,10 @@
 </a>
 </div>
 
-<!-- Other -->
 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AthinaHc&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical"/>
-</td><td valign="top" width="50%">
+<!-- PunLines -->
+
+<h3 align="center">A Little Laugher For You 😄:</h3>  
+<div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</td></tr></table>
-
+</div>
