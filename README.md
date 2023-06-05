@@ -44,21 +44,18 @@
 </p>
 </div>
 
-
-<!-- Github Stats -->
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=AthinaHc&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
-</div>
-
-
 <!-- Socials --> 
 
 <h3 align="center">Let's Connect! :</h3>  
 <div align="center">
 <a href="https://www.linkedin.com/in/athina-hadjichristodoulou-8773b6216/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-
 <a href="https://medium.com/@hadjichristodoulou_athina" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" style="height: 4rem"/>
 </a>
+</div>
 
+
+<!-- Github Stats -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AthinaHc&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
 </div>
