@@ -56,6 +56,14 @@
 
 
 <!-- Github Stats -->
+</br>
+</br>
 <div align="center" style="margin-top: 30px">
 <img src="https://github-readme-stats.vercel.app/api?username=AthinaHc&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center"/>
+</div>
+
+<!-- PunLines -->
+<h3 align="center">A Little Laugher For You:</h3>  
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
