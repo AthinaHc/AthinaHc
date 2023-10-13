@@ -5,7 +5,7 @@
  <p>
  👩‍🎓 I graduated from university in 2022 with a degree in Computer Science.
 <br>💻 My first programming language was C++ back in 2016. 
-<br>🦋 Current interests include ML, AI and Sustainability with the help of technology.
+<br>🦋 Besides coding, I enjoy travelling, hiking and crocheting. 
  </p>
  
 
