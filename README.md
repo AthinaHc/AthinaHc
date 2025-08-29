@@ -5,7 +5,8 @@
  <p>
  👩‍🎓 I graduated from university in 2022 with a degree in Computer Science.
 <br>💻 My first programming language was C++ back in 2016. 
-<br>🦋 Besides coding, I enjoy travelling, hiking and crocheting. 
+<br>🦋 Besides coding, I enjoy travelling, hiking and taking pictures (SONY a6400).
+<br>⛩️ I spent a year in Japan as a trainee learning the language and creating mobile apps as part of the Vulcanus in Japan programme (2022).
  </p>
  
 
