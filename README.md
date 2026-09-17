@@ -17,8 +17,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />  
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="height: 4rem"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="height: 4rem"/>  
 </p>
 </div>
 
@@ -28,7 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
 </p>
 </div>
 
