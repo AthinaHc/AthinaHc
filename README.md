@@ -5,7 +5,6 @@
  <p>
  👩‍🎓 I graduated from university in 2022 with a degree in Computer Science.
 <br>💻 My first programming language was C++ back in 2016. 
-<br>🦋 Besides coding, I enjoy travelling, hiking and taking pictures (SONY a6400).
 <br>⛩️ I spent a year in Japan as a trainee learning the language and creating mobile apps as part of the Vulcanus in Japan programme (2022).
  </p>
  
@@ -48,7 +47,6 @@
 
 <h3 align="center">Let's Connect! :</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/athina-hadjichristodoulou-8773b6216/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 4rem"/></a>
 <a href="https://medium.com/@hadjichristodoulou_athina" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" style="height: 4rem"/>
 </a>
